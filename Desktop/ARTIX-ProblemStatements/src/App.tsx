@@ -254,7 +254,7 @@ function App() {
         
         <div className="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
           <div className="animate-slideUp">
-            <p className="text-sm sm:text-base md:text-lg text-blue-600 font-semibold mb-4 md:mb-6 px-2">
+            <p className="text-3xl sm:text-4xl md:text-6xl font-black mb-6 md:mb-8 px-2 bg-gradient-to-r from-blue-600 via-cyan-600 to-green-600 bg-clip-text text-transparent">
               IOT-esSENCE presents..
             </p>
             <p className="text-lg sm:text-xl md:text-2xl text-gray-600 mb-6 md:mb-8 max-w-3xl mx-auto leading-relaxed px-2">
