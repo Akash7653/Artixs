@@ -156,8 +156,8 @@ function App() {
       <div className="min-h-screen bg-gradient-to-br from-gray-900 via-gray-800 to-gray-900 flex items-center justify-center">
         <div className="text-center">
           <div className="animate-bounce-in">
-            <div className="w-24 h-24 rounded-full bg-gradient-to-r from-blue-600 to-green-600 flex items-center justify-center mx-auto shadow-lg shadow-blue-600/50">
-              <span className="text-5xl font-black text-white">A</span>
+            <div className="w-20 h-20 rounded-full bg-gradient-to-r from-blue-600 to-green-600 flex items-center justify-center mx-auto shadow-lg shadow-blue-600/50">
+              <Zap className="w-10 h-10 text-white" />
             </div>
           </div>
         </div>
